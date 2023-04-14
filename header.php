@@ -15,7 +15,7 @@
 
 
   <!-- Page Title -->
-  <title>Education Office | <?= $title;?></title>
+  <title>Education Office | <?= $title ?? 'Welcome';?></title>
 
   <!-- Favicon and Touch Icons -->
   <link href="images/favicon.jpg" rel="shortcut icon" type="image/png">
@@ -136,13 +136,14 @@
                 </li>
                 <li><a href="#">Administration</a>
                   <ul class="dropdown">
-                    <li><a href="boardofdirectors.php">Board of Directors</a></li>
-                    <li><a href="#">Education Office Admins</a></li>
-                    <li><a href="schoolmanagers.php">Managers</a></li>
+                    <li><a href="schoolmanagers.php">School Managers</a></li>
+                    <li><a href="staff.php">Staff</a></li>
+                    <li><a href="Secondary-schools.php">List of Secondary Schools</a></li>
+                    
+                    <!-- <li><a href="#">Principals</a></li>
                     <li><a href="#">Principals</a></li>
-                    <li><a href="#">Principals</a></li>
-                    <li><a href="#">Head Teachers</a></li>
-                    <li><a href="#">Staff</a></li>
+                    <li><a href="#">Head Teachers</a></li> -->
+                    
                   </ul>
                 </li>
                 <li><a href="#">Community</a></li>
