@@ -277,19 +277,19 @@
                     </tr>
                     <tr>
                         <td>S/C 044</td>
-                        <td>Mater Dei  Secondary School, Awkuzu</td>
+                        <td>Mater Dei Secondary School, Awkuzu</td>
                         <td>Rev. Sr. Uzonna Orakwue</td>
                         <td>08063789118</td>
                     </tr>
                     <tr>
                         <td>S/C 045</td>
-                        <td>ST. Charles Borromeo  Secondary School, Obosi Nkpor</td>
+                        <td>ST. Charles Borromeo Secondary School, Obosi Nkpor</td>
                         <td>Rev. Fr. Anthony Asoanya</td>
                         <td>08057155227</td>
                     </tr>
                     <tr>
                         <td>S/C 046</td>
-                        <td>Crux Sancta  Secondary School, Nkpor</td>
+                        <td>Crux Sancta Secondary School, Nkpor</td>
                         <td>Rev. Fr. Joseph Ezeugo</td>
                         <td>08034743325</td>
                     </tr>
@@ -331,13 +331,13 @@
                     </tr>
                     <tr>
                         <td>S/C 053</td>
-                        <td>ST. Anthony  Secondary School, Nteje</td>
+                        <td>ST. Anthony Secondary School, Nteje</td>
                         <td>Rev. Fr. Vincent Onuchukwu</td>
                         <td>08036753900</td>
                     </tr>
                     <tr>
                         <td>S/C 054</td>
-                        <td>ST. Aphonsus  Secondary School, Nkpor</td>
+                        <td>ST. Aphonsus Secondary School, Nkpor</td>
                         <td>Rev. Fr. C. Madukwe</td>
                         <td>08128862889</td>
                     </tr>
@@ -350,7 +350,7 @@
                     <tr>
                         <td>S/C 056</td>
                         <td>Pope John Paul Secondary School, Enugu - Otu</td>
-                        <td>Rev. Fr.  Sylvanus Eruchalu</td>
+                        <td>Rev. Fr. Sylvanus Eruchalu</td>
                         <td>07031631370</td>
                     </tr>
                     <tr>
@@ -522,10 +522,154 @@
                         <td>08035773466</td>
                     </tr>
                     <tr>
+                        <td>S/C 085</td>
+                        <td>All Hallows seminary, Onitsha</td>
+                        <td>Fr. Pascal Okonkwo</td>
+                        <td>08139129841</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 086</td>
+                        <td>Fr. Maximillian Mary Kolbe Scondary School, 3-3</td>
+                        <td>Rev. Fr. Paul Nwakor</td>
+                        <td>08030965678</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 087</td>
+                        <td>Mother Bemadette Anyogu MCSS</td>
+                        <td>Sr. Lonetto Maria Okoro</td>
+                        <td>08062596954</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 088</td>
+                        <td>Maria Ines College Obosi</td>
+                        <td>Sr. Evangelue Unajo</td>
+                        <td>08064158755</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 089</td>
+                        <td>Asumption High School, Ogidi</td>
+                        <td>Rev. Fr. Vincent Ezjidike</td>
+                        <td>08033085157</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 090</td>
+                        <td>ST. Francis Model College, Nando</td>
+                        <td>Fr. Anselem Chinonso</td>
+                        <td>08038816393</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 091</td>
+                        <td>Fr. Lutz Scondary School,Igbariam</td>
+                        <td>Rev. Fr. Benedict Udeogwu</td>
+                        <td>08032604676</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 092</td>
+                        <td>Shanaha Scondary School, Odoakpu</td>
+                        <td>Rev. Fr. Emmnuel Chibuzor Okeke</td>
+                        <td>07068937545</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 093</td>
+                        <td>Fr. Amadi Scondary School,Umuenwelum</td>
+                        <td>Rev. Fr. Chukwuemeka Nwafor</td>
+                        <td>07038387660</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 094</td>
+                        <td>Trinity Scondary School, Akili - Ogidi</td>
+                        <td>Rev. Fr. Christopher Ogugua</td>
+                        <td>08068347961</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 095</td>
+                        <td>Holy Spirit Scondary School, Ogidi</td>
+                        <td>Rev. Fr. Cornelius Okezie Okoye</td>
+                        <td>08035003273</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 096</td>
+                        <td>Mater Dei Scondary School, Nkpor</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 097</td>
+                        <td>ST. Gerald Secondary School, Oba</td>
+                        <td>Rev. Fr. Thankgod Ihejirika</td>
+                        <td>08028273414</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 098</td>
+                        <td>ST. Paul Secondary School, Ojoto</td>
+                        <td>Rev. Fr. Paul Ezeifedi</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0001</td>
+                        <td>ST. Charles Secondary School, Onitsha</td>
+                        <td>Rev. Fr. Arinze Emenu</td>
+                        <td>09030510236</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0002</td>
+                        <td>C.K.C Secondary School, Onitsha</td>
+                        <td>Rev. Fr. Arinze Okafor</td>
+                        <td>08145483811</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0003</td>
+                        <td>Queen Of The Rosary College, Onitsha</td>
+                        <td>Rev. Sr. Chijioke Nwankwo</td>
                         <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0004</td>
+                        <td>ST. John's Secondary School, Alor</td>
+                        <td>Rev. Fr. Francis Unegbu</td>
+                        <td>08033748228</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0005</td>
+                        <td>Our Lady's Secondary School, Nnobi</td>
+                        <td>Rev. Fr. Vincent Nwanosike</td>
+                        <td>08061236866</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0006</td>
+                        <td>Fr. Joseph Memorial Secondary School, Aguleri</td>
+                        <td>Rev. Fr. Elijah Nwabunwanne</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0007</td>
+                        <td>ST. Joseph's Secondary School, Awka - Etiti</td>
+                        <td>Rev. Fr. Anthony Okoye C</td>
+                        <td>0816236866</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0008</td>
+                        <td>Mater Amabilis Secondary School, Umuoji</td>
+                        <td>Rev. Fr. Francis Onwuchulum</td>
+                        <td>08063328427</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0009</td>
+                        <td>Heerey Technical College, Ogidi</td>
+                        <td>Rev. Fr. Peter Nwadimkpa</td>
+                        <td>08030876743</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0010</td>
+                        <td>ST. Kizito Girl's Secondary School, Umudioka</td>
+                        <td>Rev. Fr. damian C. Ojukwu</td>
+                        <td>08036629522</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0011</td>
+                        <td>Girls' High School, Umuleri(Stella Maris)</td>
+                        <td>Rev. Fr. Cletus Idu Ifeanyi</td>
+                        <td>08033561731</td>
                     </tr>
                 </tbody>
 
