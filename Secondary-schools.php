@@ -390,33 +390,398 @@
                         <td>N/A</td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>S/C 0054</td>
+                        <td>Alphonsus Secondary School, Nkpor</td>
+                        <td>Ojukwu May</td>
+                        <td>08033403375</td>
+                        <td><a href="mailto:stalphonsusschoolsnkporuno@gmail.com">stalphonsusschoolsnkporuno@gmail.com</a></td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>S/C 0055</td>
+                        <td>Blessed Iwene Tansi Secondary School, Eziagulu - Otu</td>
+                        <td>Rev. Fr. Aniekwe Augustine</td>
+                        <td>07031019219</td>
+                        <td>N/A</td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>S/C 0056</td>
+                        <td>Pope John Paul Secondary School, Enugu - Otu</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>S/C 0057</td>
+                        <td>Our Lady Of Assumption Secondary School Fed. Housing - Estate</td>
+                        <td>Dr. Angela Obodozie</td>
+                        <td>08037273699</td>
+                        <td><a href="mailto:ourladyofassumptionsecsch@gmail.com">ourladyofassumptionsecsch@gmail.com</a></td>
                     </tr>
+                    <tr>
+                        <td>S/C 0058</td>
+                        <td>ST. Augustine's Secondary School, Nkpor</td>
+                        <td>Onyinye J. Muchukwulobe</td>
+                        <td>08035825945</td>
+                        <td><a href="mailto:staugustinegroupofschool@gmail.com">staugustinegroupofschool@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0059</td>
+                        <td>Seat Of Wisdom Secondary School,Nkpor </td>
+                        <td>Anojulu Helen O.</td>
+                        <td>08068079625</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0060</td>
+                        <td>Mater Dei Secondary School, Umueri</td>
+                        <td>James .C Egwuatu</td>
+                        <td>08061220066</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0061</td>
+                        <td>Divine Mercy Secondary School, ifite - Aguleri</td>
+                        <td>Elias Oforchebe</td>
+                        <td>08034394114</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0062</td>
+                        <td>San Francisco Tech. College, Umuoji</td>
+                        <td>Mrs. Okoro Grace</td>
+                        <td>08030886650</td>
+                        <td><a href="mailto:sanf7797@gmail.com">sanf7797@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0063</td>
+                        <td>City Of God Secondary School. Nkwelle - Uke</td>
+                        <td>Rev. Sr. Beatrice Ify Onyichoh</td>
+                        <td>07036365438</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0064</td>
+                        <td>ST. Joan Of Arc Model Secondary School, Nando</td>
+                        <td>Rev. Sr. Elias Marie Catherine G.</td>
+                        <td>08038327063</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0065</td>
+                        <td>ST. Monica's Ideals Secondary School, Ogidi</td>
+                        <td>Ogbogu Ginika N.</td>
+                        <td>07038676961</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0066</td>
+                        <td>ST. John's the Apostle High School, Odoakpu Onitsha</td>
+                        <td>Ifeoma Adimora</td>
+                        <td>08035529496</td>
+                        <td><a href="mailto:stjohntheapostle24@gmail.com">stjohntheapostle24@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0067</td>
+                        <td>ST. John Paul Secondary Secondary, Oyolu Oze</td>
+                        <td>Dr. Uba Grace Nwakaego</td>
+                        <td>08037502188</td>
+                        <td><a href="mailto:stjohnpaulIIsecsch@gmail.com">stjohnpaulIIsecsch@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0068</td>
+                        <td>Sedes Sapientia Dei Secondary School, Awada</td>
+                        <td>Dr. ngozie Ugoji</td>
+                        <td>08065323656</td>
+                        <td><a href="mailto:sedessapientiadei@gmail.com">sedessapientiadei@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0069</td>
+                        <td>Holy Rosary Girl's College, Nsugbe</td>
+                        <td>Rev. Sr. Oluchi Nnoli</td>
+                        <td>08036375006</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0070</td>
+                        <td>ST. Joseph's The Worker Secondary School, Enekwasumpu</td>
+                        <td>Ofoedu Benedeth</td>
+                        <td>07030639387</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0071</td>
+                        <td>Sedes Sapentia College, Nsugbe</td>
+                        <td>Nwosu Loveline</td>
+                        <td>07033797668</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0072</td>
+                        <td>Cardinal Arinze Academy Secondary School, Nkwelle - Ezunaka</td>
+                        <td>Onwuagana Charles</td>
+                        <td>08065127337</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0073</td>
+                        <td>Madonna Secondary School, Iyiowa Odekpe</td>
+                        <td>Nwadialor Francis C.</td>
+                        <td>09046698890</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0074</td>
+                        <td>Gregorian College, Ogidi</td>
+                        <td>rev. Sr. Joseph Ann Anokwu</td>
+                        <td>08088052625</td>
+                        <td><a href="mailto:ddlgregoriancollege@gmail.com">ddlgregoriancollege@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0075</td>
+                        <td>ST. Valerian's High School, Akpaka</td>
+                        <td>Rev. Sr. Bibian Marie</td>
+                        <td>08132917667</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0076</td>
+                        <td>ST. Patrick's Secondary School, Odume Obosi</td>
+                        <td>Mrs. Okoli Amaka Roseline</td>
+                        <td>08065132796</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0077</td>
+                        <td>Mother Of Christ, Secondary School, Ogbunike</td>
+                        <td>Rev. Sr. Jacinta Okafor</td>
+                        <td>08065106707</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0078</td>
+                        <td>ST. Jude's College Abude, Nando</td>
+                        <td>Sir. Ejike B.C</td>
+                        <td>08060854867</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0079</td>
+                        <td>ST. Theresa's College, Umunya</td>
+                        <td>Odili Obiageli B.</td>
+                        <td>08035742130</td>
+                        <td><a href="mailto:sttheresahighschoolumunya@gmail.com">sttheresahighschoolumunya@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0080</td>
+                        <td>ST. Stephen College Ogbunike</td>
+                        <td>Nwakile Okey</td>
+                        <td>07037263133</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0081</td>
+                        <td>Holy Ghost British Academy, Obosi</td>
+                        <td>Mrs. Ezeibeanu Stephanie</td>
+                        <td>08066644256</td>
+                        <td>NA</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0082</td>
+                        <td>Marist Comp. College, Nteje</td>
+                        <td>Rev. Br. Anthony Okoye</td>
+                        <td>07010534849</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0083</td>
+                        <td>Sancta Teresia Model Secondary School, 3-3</td>
+                        <td>Rev. Sr. Roseline Okafor</td>
+                        <td>08062778413</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0084</td>
+                        <td>Christ The King Secondary School, Odeh</td>
+                        <td>Victor Ikem Ifeanyi</td>
+                        <td>07063711702</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0085</td>
+                        <td>All Hallows Seminary, Onitsha</td>
+                        <td>Rev. Fr. Charles Onwumelu</td>
+                        <td>07012312713</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0086</td>
+                        <td>Fr. Maximillian Mary Kolbe Secondary School, 3-3</td>
+                        <td>Mrs. Ifeoma Osilo</td>
+                        <td>08033622559</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0087</td>
+                        <td>Mother Bernadette Anyogu MCSS</td>
+                        <td>Rev. Sr. Lonetto Maria Okoro</td>
+                        <td>08062596954</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 088</td>
+                        <td>Maria Ines College, Obosi</td>
+                        <td>Rev. Sr. Vivian Okafor</td>
+                        <td>08082817213</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0089</td>
+                        <td>Assumption High School, Ogidi</td>
+                        <td>Obinwa Emmanuel Nwajiobi</td>
+                        <td>07061213730</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0090</td>
+                        <td>ST. Francis Model College, Nando</td>
+                        <td>Rev. Sr. Maryrose A. Uche SFNG</td>
+                        <td>07063764224</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0091</td>
+                        <td>Fr. Lutz Secondary School, Igbariam</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0092</td>
+                        <td>Shanahan Memorial Secondary School, Odoapku</td>
+                        <td>Maduabuchi Justina C.</td>
+                        <td>08063801533</td>
+                        <td><a href="mailto:shanahanmemorialsecschool@gmail.com">shanahanmemorialsecschool@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0093</td>
+                        <td>Fr. Amadi Memorial College, Umuenwelum Anam</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0094</td>
+                        <td>Trinity College akili, Ogidi</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0095</td>
+                        <td>Holy Spirit Secondary School, Ogidi</td>
+                        <td>Nnamah J.</td>
+                        <td>07031200985</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0096</td>
+                        <td>Mater Dei High School, Nkpor</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0097</td>
+                        <td>ST. Gerald College, Oba</td>
+                        <td>Onuagwasi Chigozie P.</td>
+                        <td>08168438536</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>S/C 0098</td>
+                        <td>ST. Paul's Secondary School, Ojoto</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0001</td>
+                        <td>ST. Charles Secondary School, Onitsha</td>
+                        <td>Rev. Fr. Emmanuel Emenu</td>
+                        <td>09030510236</td>
+                        <td><a href="mailto:stcharlescollege@gmail.com">stcharlescollege@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0002</td>
+                        <td>C.K.C Secondary School, Onitsha</td>
+                        <td>Rev. Fr. Arinze Okafor</td>
+                        <td>08064213595</td>
+                        <td><a href="mailto:fadarinze@gmail.com">fadarinze@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0003</td>
+                        <td>Queen of The Rosary College, Onitsha</td>
+                        <td>Rev. Sr. M. Chijioke Nwankwo</td>
+                        <td>07037554198</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0004</td>
+                        <td>ST. John's Secondary School, Alor</td>
+                        <td>Rev. Fr. Francis Unegbu</td>
+                        <td>08033748228</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0005</td>
+                        <td>Our Lady's Secondary School, Nnobi</td>
+                        <td>Okeke Cornelia Ukamaka</td>
+                        <td>08027317742</td>
+                        <td><a href="mailto:ourladysecschnnobi@gmail.com">ourladysecschnnobi@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0006</td>
+                        <td>Fr. Joseph's Memorial Secondary School, Aguleri</td>
+                        <td>Rev. Fr. Henry Eke I.</td>
+                        <td>08136028971</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0007</td>
+                        <td>ST. Joseph's Secondary School, Etiti</td>
+                        <td>Rev. Fr. Anthony Okoye</td>
+                        <td>08162789364</td>
+                        <td><a href="mailto:sjsssa@gmail.com">sjsssa@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0008</td>
+                        <td>Mater Amabilis Secondary School, Umuoji</td>
+                        <td>Ibekwe Lucy E.</td>
+                        <td>08060618182</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0009</td>
+                        <td>Herey Technical College, Ogidi</td>
+                        <td>Peter Nwadimpka</td>
+                        <td>08030876743</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0010</td>
+                        <td>ST. Kizito Girl's Secondary School, Umudioka</td>
+                        <td>Rev. Fr. Damian C. Ojukwu</td>
+                        <td>08036679522</td>
+                        <td><a href="mailto:stkizitogirlsonline@gmail.com">stkizitogirlsonline@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>VAS 0011</td>
+                        <td>Girls' High School, Umuleri (Stella Maris)</td>
+                        <td>Anyanwu Leona</td>
+                        <td>08063975163</td>
+                        <td>N/A</td>
+                    </tr>
+                    
                 </tbody>
             </table>
         </div>
