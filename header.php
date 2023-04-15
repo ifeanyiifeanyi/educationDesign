@@ -123,7 +123,7 @@
                     <li><a href="#">Child Protection</a></li>
                     <li><a href="#">Office Services</a></li>
                     <li><a href="#">Catholic SChools Council</a></li>
-                    <li><a href="#home">Our Archdiocese</a> </li>
+                    <li><a href="/#home">Our Archdiocese</a> </li>
                   </ul>
                 </li>
                 <li><a href="#">Catholic Identity</a>
@@ -136,9 +136,9 @@
                 </li>
                 <li><a href="#">Administration</a>
                   <ul class="dropdown">
-                    <li><a href="schoolmanagers.php">School Managers</a></li>
-                    <li><a href="staff.php">Staff</a></li>
-                    <li><a href="Secondary-schools.php">List of Secondary Schools</a></li>
+                  <li><a href="staff.php">Staff</a></li>
+                    <li><a href="school-managers.php">School Managers</a></li>                    <li><a href="Secondary-schools.php">List of Secondary Schools</a></li>
+                    <li><a href="primary-schools.php">List of Primary Schools</a></li>
                     
                     <!-- <li><a href="#">Principals</a></li>
                     <li><a href="#">Principals</a></li>
