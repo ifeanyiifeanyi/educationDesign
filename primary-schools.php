@@ -17,11 +17,11 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>N/P 0001</td>
+                        <td>Sedes Sapentia N/P School, Awada</td>
+                        <td>Rev. Sr. Veronica Odirih</td>
+                        <td>07065518031</td>
+                        <td>N/A</td>
                     </tr>
                     <tr>
                         <td></td>
