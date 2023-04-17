@@ -550,7 +550,7 @@
                     </tr>
                     <tr>
                         <td>N/P 077</td>
-                        <td>ST. Augustine's N/P/S,  Umuoba Anam</td>
+                        <td>ST. Augustine's N/P/S, Umuoba Anam</td>
                         <td>Aniukwu Patrica</td>
                         <td>09031619943</td>
                         <td>N/A</td>
@@ -568,6 +568,118 @@
                         <td>Mrs. Menankiti L</td>
                         <td>08066187877</td>
                         <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0080</td>
+                        <td>ST. Anthony's N/P School, Nteje</td>
+                        <td>Mrs. Onwumelu Rita</td>
+                        <td>08066998273</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0081</td>
+                        <td>John Paul N/P School, 3 - 3</td>
+                        <td>Mrs. Agha Vivian Ijeoma</td>
+                        <td>08032948386</td>
+                        <td><a href="mailto:aghastainless@gmail.com">aghastainless@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0082</td>
+                        <td>Feed my Lamb N/P School, Nsugbe</td>
+                        <td>Nwoye Edith Uzoamaka</td>
+                        <td>08064075699</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0083</td>
+                        <td>Blessed Michael Iwene Tansi N/P School, Eziowelle</td>
+                        <td>Rev. Sr. Felister Ndinda</td>
+                        <td>08144667703</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0084</td>
+                        <td>ST. Mark's P/S, Nneyi Umueri</td>
+                        <td>Ifediegwu Phiomena</td>
+                        <td>07031311716</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0085</td>
+                        <td>Madonna Primary School, Iyowa</td>
+                        <td>Nwaka Louisa</td>
+                        <td>07039820174</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0086</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0087</td>
+                        <td>Emmanuel Children's Land Igbedor</td>
+                        <td>Rev. Sr. Comfort Eze</td>
+                        <td>07089503326</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0088</td>
+                        <td>Divine Mercy N/P School, Ifite - Aguleri</td>
+                        <td>Chidizie Bridget</td>
+                        <td>08067754755</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0089</td>
+                        <td>ST. Paul's N/P School, Umuoji</td>
+                        <td>Onwauchu Clement</td>
+                        <td>07066802998</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0090</td>
+                        <td>Assumption N/P School, Umuoji</td>
+                        <td>Chukwenchi Uju</td>
+                        <td>08033817012</td>
+                        <td><a href="mailto:chukweuudupholo@gmail.com">chukweuudupholo@gmail.com</a></td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0091</td>
+                        <td>Blessed Iwene Tansi N/P/S Owelle - Aja Awada</td>
+                        <td>Ameh Ugochi. O</td>
+                        <td>0806298368</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0092</td>
+                        <td>ST. Monica's N/P School, Ogidi</td>
+                        <td>Adimora Caroline N.</td>
+                        <td>08051255667</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0093</td>
+                        <td>Holy Spirit N/P School, Ogidi</td>
+                        <td>Rev. Sr. Vincent Okoro</td>
+                        <td>08033450097</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td>N/P 0094</td>
+                        <td>ST. Stephen's N/P School, Ogbunike</td>
+                        <td>Mrs. Ogbonna Kate N. (Acting)</td>
+                        <td>08037608450</td>
+                        <td>N/A</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                     </tr>
                 </tbody>
             </table>
